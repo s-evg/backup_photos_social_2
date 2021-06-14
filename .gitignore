@@ -1,0 +1,5 @@
+.idea/
+venv/
+configuration.py
+options.txt
+main (copy).py
